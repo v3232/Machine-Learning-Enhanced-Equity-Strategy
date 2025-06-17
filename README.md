@@ -40,15 +40,15 @@ Strategy is tested over multiple years using historical stock market data to val
 * Data pre-processing, filtering, and scoring for stock selection
 
 ##  Sample Outputs
-![Entry Exit plot on Close Prices](Images/Entry%20Exit%20plot%20on%20Close%20Prices.png)Entry Exit plot on Close Prices
+![Entry Exit plot on Close Prices](Images/Entry%20Exit%20plot%20on%20Close%20Prices.png)  *Entry Exit plot on Close Prices*
 
 
-![Cumulative Daily Returns](Images/Cumulative%20Daily%20Returns.png)Cumulative Daily Returns
+![Cumulative Daily Returns](Images/Cumulative%20Daily%20Returns.png)  *Cumulative Daily Returns*
 
-![Entry Exit plot on Cumulative Daily Returns](Images/Entry%20Exit%20plot%20on%20Cumulative%20Daily%20Returns.png)Entry Exit plot on Cumulative Daily Returns
+![Entry Exit plot on Cumulative Daily Returns](Images/Entry%20Exit%20plot%20on%20Cumulative%20Daily%20Returns.png)  *Entry Exit plot on Cumulative Daily Returns*
 
-![performance](Images/performance.png)
-Performance Metrics
+![performance](Images/performance.png)  
+*Performance Metrics*
 
 ## Why This Project?
 This project was created as part of preparation for a proprietary trading role, where the ability to develop profitable, risk-managed trading strategies is essential. It demonstrates a clear thought process in:
