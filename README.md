@@ -75,8 +75,13 @@ For each model, the following are tracked:
 * Trade-by-trade Profit/Loss
 
 ## Model Comparison Snapshot
-comparison table
-buy sell and plots
+comparison table and buy sell plots
+!['Closing Price'](Images/closing.png)
+!['Gradient Boosting'](Images/gradient%20boosting.png)
+!['SVM'](Images/svm.png)
+!['Logistic Regression'](Images/logistic%20regression.png)
+!['LSTM'](Images/lstm.png)
+!['Comparison'](Images/metrics%20comparison.png)
 
 
 ## Tech Stack
